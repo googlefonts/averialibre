@@ -1,0 +1,11 @@
+buildVariable: false
+removeOutlineOverlaps: false
+productionNames: false
+autohintTTF: false
+sources:
+  - AveriaLibre-Bold.glyphs
+  - AveriaLibre-BoldItalic.glyphs
+  - AveriaLibre-Italic.glyphs
+  - AveriaLibre-Light.glyphs
+  - AveriaLibre-LightItalic.glyphs
+  - AveriaLibre-Regular.glyphs
